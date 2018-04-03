@@ -1,4 +1,4 @@
-package homeWork;
+package homeWork1;
 
 
 public class first_hw {
